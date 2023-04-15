@@ -6,5 +6,7 @@
 
 The warehouse is a network collection,
  Memos for personal use, 
-If have tort, very regretful, notice namely delete.
+If have tort,
+ very regretful, 
+notice namely delete.
 
